@@ -31,8 +31,10 @@ Place the CSV files in the data folder (path configurable, see below). Each file
 ```
 data/
 ├── soccer.csv
+├── basketball.csv
+├── ice-hockey.csv
 ├── tennis.csv
-└── basketball.csv
+└── rugby.csv
 ```
 
 Describe the expected columns here.
