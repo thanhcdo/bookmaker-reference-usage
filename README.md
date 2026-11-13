@@ -17,7 +17,7 @@ Python script that reads sports data from local CSV files, analyzes it, and upda
 ## Installation
 
 ```bash
-git clone https://github.com/<owner>/bookmaker-reference-usage.git
+git clone https://github.com/thanhcdo/bookmaker-reference-usage.git
 cd bookmaker-reference-usage
 python -m venv .venv
 source .venv/bin/activate   # Windows: .venv\Scripts\activate
