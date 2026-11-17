@@ -1,4 +1,4 @@
-# bookmaker-reference-usage
+# Bookmaker Reference Usage
 
 Python script that reads sports data from local CSV files, analyzes it, and updates a SharePoint Excel file with the results.
 
